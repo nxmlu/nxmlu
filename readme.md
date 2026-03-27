@@ -75,10 +75,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nxmlu&theme=onedark&row=1" alt="GitHub Profile Trophy" />
 </p>
-<br/>
-
-<br/>
-<img align="right" height="350px" width="350px" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> 
 
 <!--![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <!--
