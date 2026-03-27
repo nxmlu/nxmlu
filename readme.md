@@ -67,11 +67,6 @@
 
 <br/>
 
-<p>
-  <h1 align="center"><b>🏆 Github Trophies 🏆</b></h1>
-</p>
-<br/>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nxmlu&theme=onedark&row=1" alt="GitHub Profile Trophy" />
 </p>
